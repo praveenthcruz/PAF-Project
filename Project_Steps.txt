@@ -139,7 +139,7 @@ TO BE CONTINUED in PART 02 - 03 - Creating a Spring Bean XML Configuration file 
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -170,7 +170,7 @@ TO BE CONTINUED in PART 02 - 04 - Understanding @RequestParam and @PathVariable
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| -
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -183,16 +183,16 @@ TO BE CONTINUED in PART 02 - 04 - Understanding @RequestParam and @PathVariable
 
 1. A query string is any string that is part of the URL that starts after the '?' where data is transferred through URL in the form of 'key=value' pair.
 
- http://localhost:8080/onlineshopping/test?greeting=hi&key1=value1&key2=value2
- http://localhost:8080/onlineshopping/test?greeting=hello
- http://localhost:8080/onlineshopping/test?greeting=welcome
+ http://localhost:8088/onlineshopping/test?greeting=hi&key1=value1&key2=value2
+ http://localhost:8088/onlineshopping/test?greeting=hello
+ http://localhost:8088/onlineshopping/test?greeting=welcome
 
 
 2. In order to keep the URL clean and make it more SEO friendly we need to access the value from the path for example: -
 
- http://localhost:8080/onlineshopping/test/hi
- http://localhost:8080/onlineshopping/test/hello
- http://localhost:8080/onlineshopping/test/welcome
+ http://localhost:8088/onlineshopping/test/hi
+ http://localhost:8088/onlineshopping/test/hello
+ http://localhost:8088/onlineshopping/test/welcome
 
 
 TO BE CONTINUED in PART 02 - 05 - Creating Landing Page and Loading Static Resources.
@@ -208,7 +208,7 @@ TO BE CONTINUED in PART 02 - 05 - Creating Landing Page and Loading Static Resou
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| - 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -260,7 +260,7 @@ TO BE CONTINUED in PART 02 - 06 - Creating Master Page
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -296,7 +296,7 @@ TO BE CONTINUED in PART 02 - 07 - Solving Active Menu Problem using jQuery
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -336,7 +336,7 @@ TO BE CONTINUED in PART 02 - 08 - Fixing the footer problem and changing the the
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -375,7 +375,7 @@ TO BE CONTINUED in PART 03 - Linking Backend Project with Frontend Project.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -415,7 +415,7 @@ TO BE CONTINUED in PART 03 - 02 - Linking Backend Project with UI.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -459,7 +459,7 @@ TO BE CONTINUED in PART 03 - 03 - Updating the URL to access Dynamic Page.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -502,7 +502,7 @@ TO BE CONTINUED in PART 03 - 04 - Getting H2 Database and Hibernate Dependency.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -541,7 +541,7 @@ TO BE CONTINUED in PART 03 - 05 - Hibernate Configuration to work with H2 Databa
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -558,7 +558,7 @@ TO BE CONTINUED in PART 03 - 05 - Hibernate Configuration to work with H2 Databa
 
 3. Create five static final variables to provide the database related information
 
-DATABASE_URL - jdbc:h2:tcp://localhost/~/onlineshopping
+DATABASE_URL - jdbc:h2:tcp://localhost/~/test
 DATABASE_DRIVER - org.h2.Driver
 DATABASE_DIALECT - org.hibernate.dialect.H2Dialect
 DATABASE_USERNAME - sa
@@ -585,7 +585,7 @@ TO BE CONTINUED Part 03 - 06 - Creating our first @Entity class
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -623,7 +623,7 @@ TO BE CONTINUED Part 03 - 07 - Writing JUnit Test Case
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -656,7 +656,7 @@ TO BE CONTINUED Part 03 - 08 - Writing Complete JUnit Test Case for doing Catego
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -707,7 +707,7 @@ TO BE CONTINUTED Part 04 - Working with DataTables to display Product Details
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -750,7 +750,7 @@ TO BE CONTINUED - Part 04 - 02 - Getting Product Data in JSON format.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -797,7 +797,7 @@ TO BE CONTINUED - Part 04 - 03 - Getting the jQuery DataTable plugin.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -832,7 +832,7 @@ TO BE CONTINUED - Part 04 - 04 - Showing JSON data in jQuery DataTable plugin us
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -873,7 +873,7 @@ TO BE CONTINUED - Part 04 - 05 - Showing the entire Product in Single Dynamic Pa
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -907,7 +907,7 @@ TO BE CONTINUED - Part 04 - 06 - Using SLF4J Logging facility.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -985,7 +985,7 @@ TO BE CONTINUED - Part 04 - 07 - Global Exception Handling.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1027,7 +1027,7 @@ TO BE CONTINUED - Part 04 - 08 - Some of the bug fixes.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1058,7 +1058,7 @@ TO BE CONTINUED - Part 05 - Spring form elements, Hibernate Validator and Multip
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1104,7 +1104,7 @@ TO BE CONTINUED - Part 05 - 02 - Adding Spring Form and Linking with the Model
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1143,7 +1143,7 @@ TO BE CONTINUED - Part 05 - 03 - Storing Product from Spring form to Database
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1176,7 +1176,7 @@ TO BE CONTINUED - Part 05 - 04 - Validating Product Details using Hibernate Vali
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1226,7 +1226,7 @@ TO BE CONTINUED - Part 05 - 05 - Multipart File Upload
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1274,7 +1274,7 @@ TO BE CONTINUED - Part 05 - 06 - Adding a new Category
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1309,7 +1309,7 @@ TO BE CONTINUED - Part 05 - 07 - Editing a product
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1335,7 +1335,7 @@ TO BE CONTINUED - Part 05 - 08 - Activating and De-activating a product
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1389,7 +1389,7 @@ TO BE CONTINUED - Part 06 - 08 - Validating fields in the flow.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1488,7 +1488,7 @@ TO BE CONTINUED - Part 06 - 03 - Understanding Hibernate OneToOne Bi-directional
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| - 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1519,7 +1519,7 @@ TO BE CONTINUED - Part 06 - 04 - Completing the Address Part Using ManyToOne
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| - 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1560,7 +1560,7 @@ TO BE CONTINUED - Part 06 - 05 - Understanding Spring Webflow
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+|
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1593,7 +1593,7 @@ TO BE CONTINUED - Part 06 - 06 - Configuring Spring Webflow
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1699,7 +1699,7 @@ TO BE CONTINUED - Part 06 - 07 - Creating membership flow file.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+|
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -1791,7 +1791,7 @@ TO BE CONTINUED - Part 06 - 08 - Spring webflow with model and navigation
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2076,7 +2076,7 @@ TO BE CONTINUED - Part 06 - 09 - Spring Webflow Using Composite Model And Handle
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2117,7 +2117,7 @@ TO BE CONTINUED - Part 06 - 10 - Spring Webflow With Validation
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2177,7 +2177,7 @@ TO BE CONTINUED - Part 07 - Authentication & Authorization Using Spring Security
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2262,7 +2262,7 @@ TO BE CONTINUED - Part 07 - 02 - Spring Security Using jdbc-user-service
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2304,7 +2304,7 @@ TO BE CONTINUED - Part 07 - 03 - Spring Security With Custom Login Page
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2435,7 +2435,7 @@ TO BE CONTINUED - Part 07 - 04 - Handling CSRF In Spring Security
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2486,7 +2486,7 @@ TO BE CONTINUED - Part 07 - 05 - Role Based Access Control
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| -
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2517,7 +2517,7 @@ TO BE CONTINUED - Part 07 - 06 - Spring Security Password Encryption
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| - 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2562,7 +2562,7 @@ TO BE CONTINUED - Part 07 - 07 - Global Controller To Fetch User Model
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2615,7 +2615,7 @@ TO BE CONTINUED - Part 07 - 08 - Displaying Menus and Buttons based on Role
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2658,7 +2658,7 @@ TO BE CONTINUED - Part 07 - 09 - Spring Security Logout Handling
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2709,7 +2709,7 @@ TO BE CONTINUED - Part 07 - 10 - Fixing Bug And Making DataTable Responsive
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2752,7 +2752,7 @@ TO BE CONTINUED - Part 07 - 10 - Fixing Bug And Making DataTable Responsive
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2806,7 +2806,7 @@ TO BE CONTINUED - Part 08 - 02 - Creating the Cart View
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2858,7 +2858,7 @@ TO BE CONTINUED - Part 08 - 03 - Creating a Service Layer for Cart
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2906,7 +2906,7 @@ TO BE CONTINUED - Part 08 - 04 - Updating CartLine Product Count
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -2959,7 +2959,7 @@ TO BE CONTINUED - Part 08 - 05 - CartLine Update through CartService.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -3049,7 +3049,7 @@ TO BE CONTINUED - Part 08 - 06 - Removing the CartLine
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -3086,7 +3086,7 @@ TO BE CONTINUED - Part 08 - 07 - Adding new item to the CartLine
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+|
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
