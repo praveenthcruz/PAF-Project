@@ -1,7 +1,7 @@
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -52,7 +52,7 @@ TO BE CONTINUED in PART 02 - Building the user interface in webapp project.
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
@@ -91,7 +91,7 @@ TO BE CONTINUED in PART 02 - 02 - Adding Spring Dependency and Printing a messag
 |-----------------------------------------------------------------
 | Complete Project Step By Step with 
 | Spring, Hibernate, Maven, Angular JS and Bootstrap
-| - Khozema Nullwala
+| 
 |-----------------------------------------------------------------
 
 |-----------------------------------------------------------------
